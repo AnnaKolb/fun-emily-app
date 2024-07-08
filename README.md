@@ -1,4 +1,4 @@
-### Just a project to keep practicing angular skills
+# Just a project to keep practicing angular skills
 It's mostly for experimentation and whatnot...
 
 # EmilyApp
