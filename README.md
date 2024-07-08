@@ -1,3 +1,6 @@
+### Just a project to keep practicing angular skills
+It's mostly for experimentation and whatnot...
+
 # EmilyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.5.
